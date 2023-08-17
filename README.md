@@ -32,6 +32,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 [@agustinl](https://twitter.com/agustinlautaro)
 
-[@flyingsnoopy]([flyingsnoopy (github.com)](https://github.com/flyingsnoopy))
+[@flyingsnoopy](https://github.com/flyingsnoopy)
 
 ##### 2023
