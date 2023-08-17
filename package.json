@@ -1,0 +1,30 @@
+{
+	"name": "svelte-tags-search-input",
+	"type": "module",
+	"version": "5.0.0",
+	"description": "Fully customizable Svelte component to enter tags and input.",
+	"main": "dist/index.js",
+	"module": "dist/index.mjs",
+	"svelte": "src/Tags.svelte",
+	"scripts": {
+		"build": "rollup -c",
+		"prepare": "npm run build",
+		"dev": "rollup -c -w"
+	},
+	"keywords": [
+		"svelte",
+		"tags",
+		"input",
+		"search"
+	],
+	"author": "Agustin Lautaro <aencaje@gmail.com>,flyingsnoopy <lijiaqi1835@outlook.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"@rollup/plugin-commonjs": "^18.0.0",
+		"rollup": "^2.45.2",
+		"rollup-plugin-css-only": "^3.1.0",
+		"rollup-plugin-node-resolve": "^5.2.0",
+		"rollup-plugin-svelte": "^7.1.6",
+		"svelte": "^3.59.2"
+	}
+}
