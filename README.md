@@ -6,7 +6,7 @@
 
 ## Introduction
 
-It's based on [svelte-tags-input](https://github.com/agustinl/svelte-tags-input).It can return extra string that hasn't exchanged into a value of tags by 
+It's based on [svelte-tags-input](https://github.com/agustinl/svelte-tags-input).It can return extra string that hasn't transformed into a value of tags by 
 
 ```js
 bind:extra = {...}; 
