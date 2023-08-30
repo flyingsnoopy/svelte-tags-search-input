@@ -1,7 +1,7 @@
 {
 	"name": "svelte-tags-search-input",
 	"type": "module",
-	"version": "5.0.0",
+	"version": "5.0.2",
 	"description": "Fully customizable Svelte component to enter tags and input.",
 	"main": "dist/index.js",
 	"module": "dist/index.mjs",

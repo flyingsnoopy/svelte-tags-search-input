@@ -12,11 +12,9 @@ It's based on [svelte-tags-input](https://github.com/agustinl/svelte-tags-input)
 bind:extra = {...}; 
 ```
 
-It's just retrofitted for [cute_web](https://github.com/nyansite/cute_web) .For some reasons,it hasn't been published to the npm server.
+It's just retrofitted for [cute_web](https://github.com/nyansite/cute_web) .
 
 ## Install
-
-Please download and install it on local.
 
 ```javascript
 import Tags from "svelte-tags-search-input";
